@@ -1,0 +1,7 @@
+# Ignore AWS Keys
+*.pem
+*.ppk
+
+# Ignore OS metadata
+.DS_Store
+Thumbs.db

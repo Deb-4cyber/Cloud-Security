@@ -1,4 +1,4 @@
-# Cloud Based Encryption Service via AWS
+# ☁️🔐 Cloud Based Encryption Service via AWS
 
 ## 📝 Overview
 The **Cloud-Based Encryption Service** is a security-focused application that allows users to perform high-grade file encryption via a mobile interface. By offloading cryptographic processes to the **Amazon Web Services (AWS)** cloud, the service ensures that mobile devices can secure sensitive data without consuming heavy local processing power. The project demonstrates a full-stack integration of mobile development (React Native) and cloud infrastructure (AWS EC2, DynamoDB, and Cognito).
